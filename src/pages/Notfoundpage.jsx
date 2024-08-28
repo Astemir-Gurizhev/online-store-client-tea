@@ -1,7 +1,7 @@
 function Notfoundpage() {
     return (
         <>
-            <h1>Привет</h1>
+            <h1>Страница не найдена</h1>
         </>
     )
 }

@@ -1,7 +1,7 @@
 function About() {
     return (
         <>
-            <h1>Привет</h1>
+            <h1>О нас</h1>
         </>
     )
 }
